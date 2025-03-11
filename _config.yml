@@ -1,11 +1,11 @@
-title: Website Title
+title: SCHH Boar & RV Website
 
 description: >
   Website Description
 
 author:
-  name: Name
-  email: your-email@domain.com
+  name: Tom Dodrill
+  email: tom.dodrill@gmail.com
 
 nav_pages:
   - about.md
